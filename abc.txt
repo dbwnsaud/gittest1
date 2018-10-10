@@ -2,3 +2,5 @@ hi git
 hello world!
 my name is june.
 nice sensortech!
+show me the money
+food for thought
